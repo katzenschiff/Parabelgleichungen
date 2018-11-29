@@ -38,7 +38,7 @@ for p in range(1,10):
             print ('P:', p)
             print ('Q:', q)
             print ('X1:', x1)
-            print ('X1:', x2)
+            print ('X2:', x2)
             print ("---")
             count = count + 1
 
